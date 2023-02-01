@@ -19,7 +19,15 @@
     "solid-start-vercel": "^0.2.16",
     "tailwindcss": "^3.2.4",
     "postcss": "^8.4.19",
-    "autoprefixer": "^10.4.13"
+    "autoprefixer": "^10.4.13",
+    "@rollup/plugin-commonjs": "^24.0.0",
+    "@rollup/plugin-json": "^6.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@vercel/nft": "^0.22.6",
+    "rollup": "^3.10.0",
+    "terser": "^5.16.1",
+    "fast-glob": "3.2.12",
+    "micromatch": "4.0.5"
   },
   "dependencies": {
     "@solidjs/meta": "^0.28.2",
